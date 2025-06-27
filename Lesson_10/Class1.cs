@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace Lesson_10
 {
     internal class Class1
-    {
+    {//8888
     }
 }
